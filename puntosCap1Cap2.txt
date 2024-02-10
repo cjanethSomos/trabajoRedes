@@ -49,3 +49,72 @@ mensajes, asignando mas recursos a tareas mas complejas e importantes o que pued
 sensibles al tiempo
 8.
 La calidad del servicio es importante por que la red de datos cuenta con recursos finitos y esas restricciones deben afectar lo menos posible al servicio ofrecido por las aplicaciones al tener una buena administración de los recursos.
+9.ASPECTO NIVEL1 NIVEL2
+INFRAESTRUCTURA
+DE RED
+
+una infraestructura de
+red muy extensa y
+bien desarrollada que
+abarca múltiples
+ubicaciones
+geográficas en todo el
+planeta, facilitando la
+conectividad global
+
+Regional o nacional,
+con una
+infraestructura más
+limitada.
+
+ALCANCE Múltiples continentes diseñada
+
+principalmente para
+cubrir un área
+geográfica específica,
+como un país o una
+región geográfica.
+
+RELACIONES DE
+PEERING
+(INTERCAMBIO DE
+TRAFICO)
+
+Establecen relaciones
+de peering directo
+con otros
+proveedores de Nivel-
+1.
+
+Pueden establecer
+relaciones de peering
+con otros
+proveedores de Nivel-
+2 y pueden comprar
+tránsito de
+proveedores de Nivel-
+1.
+
+CCNA Exploration
+Aspectos básicos de networking:
+La vida en un mundo centrado en la
+red
+
+Actividades Del Curso De Redes-Programa de Ingeniería de Sistemas
+
+DEPENDENCIA tienen la capacidad y
+la infraestructura
+necesarias para llegar
+a cualquier destino en
+la red global sin
+necesidad de recurrir
+a otros proveedores
+intermedios para
+completar la conexión
+
+Pueden depender de
+proveedores de Nivel-
+1 para acceder a
+partes de Internet
+fuera de su alcance
+directo.
