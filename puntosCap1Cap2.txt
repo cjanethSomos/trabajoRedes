@@ -146,3 +146,9 @@ TALLE2
 INTERNETWORK se refiere a la interconexión de redes individuales para formar una red más grande,
 INTERNET es la red global de redes más grande y ampliamente utilizada que existe, accesible para
 cualquier persona con conexión a Internet en todo el mundo.
+4.
+	NIC	puerto físico	interfaz de red
+DEFINICION	Hardware que  conecta un dispositivo a lared 	Punto de conexión físico en un dispositivo	Punto de conexión lógica de red
+FUNCION	Permite conectar un dispositivo a la red 	Es el medi físico para conectar dispositivos	Es la representación de la conexión en un sistema Operativo
+UBICACION	Se encuentra generalmente integrada desde un dispositivo que puede conectarse a la red	Se encuentra generalmente el chasis de un dispositivo	Sin ubicación física al ser un elemento abstracto del sistema operativo
+EJEMPLO	Tarjeta de ethernet	Puerto de Ethernet	Interfaz llamada “eth0”
