@@ -142,3 +142,7 @@ TALLE2
  Servicios:DNS, DHCP…
 2.
 •	La red son dispositivos interconectados que se comunican entre si con variedad de tamaño o cobertura, la LAN es una red de Área local administrada por una organización, la WAN conecta varias LAN para lo que necesitan de un TSP que administra la red. Por su parte interwork son redes interconectadas públicas o privadas , siendo Internet la red pública más conocida.
+3.
+INTERNETWORK se refiere a la interconexión de redes individuales para formar una red más grande,
+INTERNET es la red global de redes más grande y ampliamente utilizada que existe, accesible para
+cualquier persona con conexión a Internet en todo el mundo.
