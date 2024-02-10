@@ -4,3 +4,7 @@ Enviar mensajes instantáneos
  jugar en línea
  ver videos en YouTube
  retirar dinero desde la app Bancolombia
+2.
+
+•	Factores externos como congestión en la red , pérdida de mensajes o fallas en la red 
+•	factores internos como tamaño del mensaje o complejidad
