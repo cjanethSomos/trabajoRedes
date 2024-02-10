@@ -172,3 +172,5 @@ medio físico
  Cada bit de la trama se transmite a través del medio físico como una señal eléctrica. En el
 caso de un cable de cobre, los bits se representan como cambios en el voltaje eléctrico a lo
 largo del cable.
+8.
+•	Los modelos de protocolos son un marco practico con una suite de protocolos en particular mientras los de referencia no tienen una implementación detallada por ser una guía abstracta
