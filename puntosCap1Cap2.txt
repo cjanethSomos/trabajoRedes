@@ -118,3 +118,8 @@ proveedores de Nivel-
 partes de Internet
 fuera de su alcance
 directo.
+10.
+Nivel 1	Nivel2
+Telefónica 	América Móvil (claro)
+AT&T.	ETB
+verizon	UNE EPM
