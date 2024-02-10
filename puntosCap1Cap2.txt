@@ -47,3 +47,5 @@ La calidad del servicio se basa en la manera de administrar los recursos en la r
 el comportamiento deseado de la red, aplicando diferentes reglas según la categoría de los
 mensajes, asignando mas recursos a tareas mas complejas e importantes o que puedan ser
 sensibles al tiempo
+8.
+La calidad del servicio es importante por que la red de datos cuenta con recursos finitos y esas restricciones deben afectar lo menos posible al servicio ofrecido por las aplicaciones al tener una buena administración de los recursos.
