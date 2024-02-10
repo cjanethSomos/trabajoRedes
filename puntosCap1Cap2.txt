@@ -42,3 +42,8 @@ Redes No Orientadas a la Conexión:
 •	Comunicación sin establecimiento previo: En estas redes, los dispositivos pueden enviar datos sin necesidad de establecer una conexión previa. Cada paquete de datos se envía de forma independiente y puede seguir rutas diferentes a través de la red.
 •	No hay mantenimiento de conexión: No se mantiene una conexión activa entre los dispositivos durante la transmisión de datos. Cada paquete se maneja de forma independiente y puede seguir diferentes caminos en la red.
 •	Menor sobrecarga: Al no requerir un proceso de establecimiento y mantenimiento de conexión, las redes no orientadas a la conexión pueden tener una menor sobrecarga de comunicación y un menor tiempo de latencia.
+7.
+La calidad del servicio se basa en la manera de administrar los recursos en la red obteniendo
+el comportamiento deseado de la red, aplicando diferentes reglas según la categoría de los
+mensajes, asignando mas recursos a tareas mas complejas e importantes o que puedan ser
+sensibles al tiempo
