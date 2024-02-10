@@ -156,3 +156,5 @@ EJEMPLO	Tarjeta de ethernet	Puerto de Ethernet	Interfaz llamada “eth0”
 Por qué los protocolos especifican la funcionalidad de la red pero no la tecnología subyacente que debe
 utilizarse para la funcionalidad , como por ejemplo no especifica en que lenguaje debe tener o el
 software que lo puede ejecutar o el sistema operativo…
+6.
+•	La PDU es el nombre que recibe al encapsularse una sección de datos recibida de una capa superior después de cambiar de forma en la capa actual.
