@@ -123,3 +123,9 @@ Nivel 1	Nivel2
 Telefónica 	América Móvil (claro)
 AT&T.	ETB
 verizon	UNE EPM
+11.Los proveedores de internet de nivel 1 son de gran importancia para interconectar la red a nivel mundial
+hacia cualquier destino de internet sin depender de otros proveedores con gran estabilidad por su buena
+infraestructura. Los proveedores de nivel 2 garantizan una mayor cobertura regional, también sin
+proveedores de nivel dos se dependería en gran parte de los nivel 1 aumentando demasiado la carga de
+la infraestructura llevando a congestionar la red, los proveedores de Nivel 2 proporcionan un mayor
+diversidad de rutas de tráfico de datos disminuyendo el cuello de botella
