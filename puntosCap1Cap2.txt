@@ -131,3 +131,12 @@ la infraestructura llevando a congestionar la red, los proveedores de Nivel 2 pr
 diversidad de rutas de tráfico de datos disminuyendo el cuello de botella
 12.
 •	La gestión y regulación de los proveedores de Internet son fundamentales para garantizar que el acceso a Internet sea equitativo con tarifas de acceso sean asequibles, que se ofrezcan servicios de calidad en todas las áreas, incluidas las zonas rurales y remotas, también es crucial la seguridad porque cada vez la red contiene mayor cantidad de datos sensibles porque es necesaria para las actividades de nuestra vida diaria y debe ser eficiente en todo sentido. Es importante que las políticas sean diseñadas de manera que promuevan la equidad, la neutralidad de la red, la inversión en infraestructura y la protección de la privacidad y seguridad de los usuarios.
+
+TALLE2 
+
+1.
+ Dispositivos finales(emisor o receptor) : puede ser una computadora, impresora, portátil, celular
+ Dispositivos de red:routers, switch ,hubs, firewall, modems
+ Medio de transmicion:alambre de cobre , fibra óptica, inalambrico
+ Protocolos:UDP, IP,TSP, HTTP, HTTPS…
+ Servicios:DNS, DHCP…
