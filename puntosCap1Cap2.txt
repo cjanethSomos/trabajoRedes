@@ -174,3 +174,38 @@ caso de un cable de cobre, los bits se representan como cambios en el voltaje el
 largo del cable.
 8.
 •	Los modelos de protocolos son un marco practico con una suite de protocolos en particular mientras los de referencia no tienen una implementación detallada por ser una guía abstracta
+9.
+OSI
+ Capa Física: Esta capa se encarga de la transmisión física de datos a través del
+medio de transmisión.
+ Capa de Enlace de Datos: Esta capa proporciona un enlace lógico entre dispositivos
+en la misma red local.
+ Capa de Red: La capa de red es responsable del enrutamiento de datos a través de la
+red utilizando direcciones IP.
+ Capa de Transporte: La capa de transporte garantiza la entrega confiable de datos
+entre los dispositivos finales.
+ Capa de Sesión: La capa de sesión establece, gestiona y finaliza las conexiones entre
+dispositivos.
+ Capa de Presentación: Esta capa se encarga de la representación y codificación de
+datos para garantizar su compatibilidad entre sistemas.
+ Capa de Aplicación: La capa de aplicación proporciona servicios de red a las
+aplicaciones de software.
+
+TCP/IP
+
+ Aplicación: La capa de aplicación proporciona servicios de red a las aplicaciones de
+software.
+ Transporte: La capa de transporte garantiza la entrega confiable de datos entre
+dispositivos finales.
+ Internet: La capa de Internet es responsable de la transmisión de datos a través de la
+red utilizando direcciones IP.
+ Acceso a la Red: La capa de acceso a la red se encarga de la transmisión física de
+
+CCNA Exploration
+Aspectos básicos de networking:
+La vida en un mundo centrado en la
+red
+
+Actividades Del Curso De Redes-Programa de Ingeniería de Sistemas
+
+datos a través del medio de transmisión
