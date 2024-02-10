@@ -158,3 +158,17 @@ utilizarse para la funcionalidad , como por ejemplo no especifica en que lenguaj
 software que lo puede ejecutar o el sistema operativo…
 6.
 •	La PDU es el nombre que recibe al encapsularse una sección de datos recibida de una capa superior después de cambiar de forma en la capa actual.
+7.
+Datos: Son la información que se desea enviar en un correo electrónico seria el contenido
+de este(capa aplicacion)
+ Segmento: es la división de los datos en segmentos más pequeños para su transmisión.
+Estos segmentos deberían incluir información para ser reensamblado el mensaje en su
+origen(capa transporte)
+ Paquete: Cada segmento se coloca en un paquete junto con información adicional, como
+las direcciones IP de origen y destino para que el correo electrónico llegue a su destino.
+ Trama: se añade la dirección física de origen y destino (como direcciones MAC en
+Ethernet), así como la información de control necesaria para la transmisión de datos en el
+medio físico
+ Cada bit de la trama se transmite a través del medio físico como una señal eléctrica. En el
+caso de un cable de cobre, los bits se representan como cambios en el voltaje eléctrico a lo
+largo del cable.
