@@ -13,3 +13,8 @@ Enviar mensajes instantáneos
  mensaje que son los datos que viajan
  dispositivos finales: los que emiten y reciben el mensaje
  medio para interconectar los dispositivos
+4.
+A.	¿Qué son los datos? Los datos son información que se desea transmitir entre dos dispositivos
+B.	¿Qué es una red de datos? La red de datos es la red que comunica a la red humana, proporcionando una comunicación entre 2 dispositivos.
+C.	¿Qué entiende por arquitectura de red? La arquitectura de red es la infraestructura que soporta la comunicación entre dispositivos finales (emisor, receptor)
+D.	¿Qué es una red convergente? la red convergente permite compartir datos, voz y video en su misma infraestructura de red.
