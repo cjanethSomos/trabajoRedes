@@ -8,3 +8,8 @@ Enviar mensajes instantáneos
 
 •	Factores externos como congestión en la red , pérdida de mensajes o fallas en la red 
 •	factores internos como tamaño del mensaje o complejidad
+3.
+ reglas para correcta interpretación del mensaje
+ mensaje que son los datos que viajan
+ dispositivos finales: los que emiten y reciben el mensaje
+ medio para interconectar los dispositivos
