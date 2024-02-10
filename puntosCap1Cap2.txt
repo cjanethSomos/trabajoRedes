@@ -30,3 +30,15 @@ D. Seguridad. Mostrar sus respectivos ejemplos:
 ejemplo el firewall.
  también está la seguridad de contenido protegiendo los datos de la información que se envía
 como con contraseñas o hash.
+6.
+Redes Orientadas a la Conexión:
+
+•	Establecimiento de conexión: Antes de transmitir datos, se establece una conexión entre los dispositivos de la red. Esto implica un proceso de negociación y establecimiento de parámetros para la comunicación.
+•	Mantenimiento de la conexión: Una vez establecida la conexión, se mantiene activa durante toda la duración de la comunicación. Se pueden realizar ajustes en la conexión para garantizar la calidad y la integridad de los datos.
+•	Control de flujo y congestión: Las redes orientadas a la conexión suelen implementar mecanismos de control de flujo y congestión para regular la velocidad de transmisión y evitar la pérdida de datos debido a la saturación de la red.
+
+Redes No Orientadas a la Conexión:
+
+•	Comunicación sin establecimiento previo: En estas redes, los dispositivos pueden enviar datos sin necesidad de establecer una conexión previa. Cada paquete de datos se envía de forma independiente y puede seguir rutas diferentes a través de la red.
+•	No hay mantenimiento de conexión: No se mantiene una conexión activa entre los dispositivos durante la transmisión de datos. Cada paquete se maneja de forma independiente y puede seguir diferentes caminos en la red.
+•	Menor sobrecarga: Al no requerir un proceso de establecimiento y mantenimiento de conexión, las redes no orientadas a la conexión pueden tener una menor sobrecarga de comunicación y un menor tiempo de latencia.
