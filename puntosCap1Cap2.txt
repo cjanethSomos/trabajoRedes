@@ -18,3 +18,15 @@ A.	¿Qué son los datos? Los datos son información que se desea transmitir entr
 B.	¿Qué es una red de datos? La red de datos es la red que comunica a la red humana, proporcionando una comunicación entre 2 dispositivos.
 C.	¿Qué entiende por arquitectura de red? La arquitectura de red es la infraestructura que soporta la comunicación entre dispositivos finales (emisor, receptor)
 D.	¿Qué es una red convergente? la red convergente permite compartir datos, voz y video en su misma infraestructura de red.
+5.
+A. Tolerante a fallas: cuando ocurra una falla el mensaje tenga otra ruta para llegar a su
+destino con mínimas afectaciones.
+B. Escalabilidad: permite aumentar el tamaño de la red sin disminuir su calidad de
+servicio.
+C. Calidad del servicio : cumplir con las expectativas de los usuarios obteniendo una
+experiencia satisfactoria al priorizar, clasificar y dar seguridad en la información.
+D. Seguridad. Mostrar sus respectivos ejemplos:
+ seguridad en la infraestructura evitando el acceso no autorizado en dispositivos físicos por
+ejemplo el firewall.
+ también está la seguridad de contenido protegiendo los datos de la información que se envía
+como con contraseñas o hash.
